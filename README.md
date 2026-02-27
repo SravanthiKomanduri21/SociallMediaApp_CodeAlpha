@@ -1,1 +1,1 @@
-# SocailMediaApp_CodeAlpha
+# SociallMediaApp_CodeAlpha
